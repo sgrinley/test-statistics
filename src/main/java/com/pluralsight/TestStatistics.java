@@ -39,7 +39,6 @@ public class TestStatistics {
         System.out.println("High Score: " + highScore);
         System.out.println("Low Score: " + lowScore);
         System.out.println("Median: " + median);
-
     }
 }
 
